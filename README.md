@@ -44,9 +44,9 @@ KINGAI 为中小企业做线上生意：网站、App、定制系统先建起来�
 
 ## 旗舰：KINGAI OS
 
-Linux 操作系统家族，四个版本：Desktop、Server、Edge、AI Workstation。Desktop 与 Server 已发布 v0.1.0-dev 开发预览 ISO（amd64），Edge 与 AI Workstation 还没有公开镜像。下载只走 [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases/releases)，装之前先校验 SHA-256、先在虚拟机里试。截至 2026-10-29，预览镜像在 GitHub 的累计下载 96 次（Release 资源口径）。
+Linux 操作系统家族，四个版本：Desktop、Server、Edge、AI Workstation。Desktop 与 Server 已发布 v0.1.0-dev 开发预览 ISO（amd64），Edge 与 AI Workstation 还没有公开镜像。官方产品中心：[kingai.work/os](https://kingai.work/os/)。下载只走 [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases/releases)，装之前先校验 SHA-256、先在虚拟机里试。截至 2026-10-29，预览镜像在 GitHub 的累计下载 96 次（Release 资源口径）。
 
-A Linux family in four editions. Desktop and Server ship as a v0.1.0-dev developer preview (amd64); Edge and AI Workstation have no public images yet. The OS product center is being consolidated into the main site under /os/ (in progress); until it opens, the Releases repo is the download entry.
+A Linux family in four editions. Desktop and Server ship as a v0.1.0-dev developer preview (amd64); Edge and AI Workstation have no public images yet. Official product center: [kingai.work/os](https://kingai.work/os/); downloads are served from the Releases repo.
 
 ## 下载与公开仓 Downloads & repos
 
