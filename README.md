@@ -1,28 +1,33 @@
-# KINGAI
+# KINGAIWORK
 
-**由在美华人创办、AI 智能驱动的未来科技公司。**
-**An AI-driven future technology company founded by Chinese entrepreneurs in the United States.**
+**KINGAIWORK LLC 运营的 AI 解决方案平台（品牌：KING AI）。**
+**An AI solutions platform operated by KINGAIWORK LLC (brand: KING AI).**
 
-官网 Official site: https://kingai.work · 联系 Contact: https://kingai.work/contact/
+官网 Official site: https://kingai.work · 联系 Contact: vip@kingai.work · [联系页](https://kingai.work/contact/)
 
-KINGAI 为中小企业做线上生意：网站、App、定制系统先建起来，再用 AI 客服、搜索可见度和数字员工把日常运营接住。官网上的 AI 客户顾问 24 小时接待访客，需求问清后由真人报价签约。
+## 公司事实 Company facts
+
+- 法定名称 Legal name: **KINGAIWORK LLC**
+- 注册 Registration: 美国怀俄明州有限责任公司，2026-11-01 成立，州实体号 2026-002120886 (Wyoming LLC, formed 2026-11-01, Entity ID 2026-002120886)
+- 注册地址 Registered address: 30 N Gould St Ste R, Sheridan, WY 82801, USA
+- 业务 What we do: 为企业、政府与公共机构提供全方位 AI 解决方案——AI 数字员工、智慧网站、智能化 SaaS 与智能化企业管理系统，以及面向城市与机构的一体化智能治理平台。官网上的 AI 客户顾问 24 小时接待访客，需求问清后由真人把关方案与交付。
 
 ## 服务 Services
 
-六项服务，顺序与官网一致：
+服务目录与官网一致：
 
+- AI 数字员工与自动化 · AI staff & automation
 - 网站建设 · Website development
 - App 开发 · App development
 - 软件与系统定制 · Custom software & systems
 - SEO 与 AI 搜索优化 · SEO & AI search optimization
 - 广告投放与品牌增长 · Ads & brand growth
-- AI 数字员工与自动化 · AI staff & automation
 
-详情与报价方式见[服务页](https://kingai.work/services/)。公开页不标价，报价按需求单独出。
+详情见[服务页](https://kingai.work/services/)。机构与政府线定版价公开：企业版年费 $24,000（全功能、含模型用量）、实施 $12,000–18,000 一次性、试点 $9,000/学期（转正式全额抵扣）；其余项目按需求单独报价，逐项写进合同。
 
 ## 产品 Products
 
-15 个产品，全在[官网产品页](https://kingai.work/products/)，状态照官网标注，不放点不开的空按钮。
+产品全在[官网产品页](https://kingai.work/products/)，状态照官网标注，不放点不开的空按钮。
 
 | 产品 Product | 一句话 | 状态 Status |
 |---|---|---|
@@ -44,15 +49,14 @@ KINGAI 为中小企业做线上生意：网站、App、定制系统先建起来�
 
 ## 旗舰：KINGAI OS
 
-Linux 操作系统家族，四个版本：Desktop、Server、Edge、AI Workstation。Desktop 与 Server 已发布 v0.1.0-dev 开发预览 ISO（amd64），Edge 与 AI Workstation 还没有公开镜像。官方产品中心：[kingai.work/os](https://kingai.work/os/)。下载只走 [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases/releases)，装之前先校验 SHA-256、先在虚拟机里试。截至 2026-10-29，预览镜像在 GitHub 的累计下载 96 次（Release 资源口径）。
+Linux 操作系统家族，四个版本：Desktop、Server、Edge、AI Workstation。Desktop 与 Server 已发布 v0.1.0-dev 开发预览 ISO（amd64），Edge 与 AI Workstation 还没有公开镜像。官方产品中心：[kingai.work/os](https://kingai.work/os/)。下载只走 [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases/releases)，装之前先校验 SHA-256、先在虚拟机里试。
 
 A Linux family in four editions. Desktop and Server ship as a v0.1.0-dev developer preview (amd64); Edge and AI Workstation have no public images yet. Official product center: [kingai.work/os](https://kingai.work/os/); downloads are served from the Releases repo.
 
 ## 下载与公开仓 Downloads & repos
 
-- [Wenshu-Releases](https://github.com/kingaiwork/Wenshu-Releases)：文枢安装包，v0.1.0 公开测试版，累计下载 8 次（2026-10-29 口径）
+- [Wenshu-Releases](https://github.com/kingaiwork/Wenshu-Releases)：文枢安装包，v0.1.0 公开测试版
 - [KINGAI-OS-Releases](https://github.com/kingaiwork/KINGAI-OS-Releases)：KINGAI OS 镜像与校验文件
-- [kingai-disaster-watch](https://github.com/kingaiwork/kingai-disaster-watch)：灾害预警的公开站，线上版 https://hazard.kingai.work
 - [kingai-global-intelligence](https://github.com/kingaiwork/kingai-global-intelligence)：全球情报的公开交付面
 - [KINGAIASE-public](https://github.com/kingaiwork/KINGAIASE-public)：产品家族公开索引与关系图谱
 
@@ -62,8 +66,8 @@ Cloudflare Pages、Workers、D1、KV 与 Workers AI 承载站点与服务，Astr
 
 ## 常见问题 FAQ
 
-**KINGAI 接什么活？**
-网站、App、定制软件的新做或改造，外加 AI 客户顾问、搜索可见度托管、商家档案托管这类持续服务。先在[联系页](https://kingai.work/contact/)说清需求，看完需求真人报价。
+**KINGAIWORK 接什么活？**
+AI 数字员工、智慧网站、智能化系统的新做或改造，外加 AI 客户顾问、搜索可见度托管、商家档案托管这类持续服务，也承接政府与公共机构的智能治理项目。先在[联系页](https://kingai.work/contact/)说清需求，看完需求真人报价。
 
 **文枢真的免费吗？**
 免费、开源（Apache-2.0），没有会员版和功能锁，文件只存在您自己绑定的存储里。
