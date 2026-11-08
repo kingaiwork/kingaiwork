@@ -1,6 +1,6 @@
 # KINGAIWORK LLC
 
-**KINGAI** is the artificial intelligence and software technology brand operated by **KINGAIWORK LLC**, a Wyoming-registered limited liability company in the United States.
+**KINGAI** is the artificial intelligence and software technology brand operated by **KINGAIWORK LLC**, a company registered in the United States.
 
 **KINGAI** 是美国怀俄明州注册公司 **KINGAIWORK LLC** 运营的人工智能与软件技术品牌，面向个人、企业及公共机构提供智能系统与数字化解决方案。
 
@@ -33,15 +33,12 @@ These repositories present only verified public-facing project information. Deve
 
 Internal management systems, unreleased builds, deployment credentials, private customer information and proprietary operational source remain private.
 
-## Company information · 公司资料
+## Company · 公司
 
-- **Legal name / 法定名称:** KINGAIWORK LLC
-- **Registered in / 注册地:** Wyoming, United States
-- **Formation date / 成立日期:** November 1, 2026
-- **Wyoming Entity ID / 州实体编号:** 2026-002120886
-- **Registered address / 注册地址:** 30 N Gould St Ste R, Sheridan, WY 82801, USA
+**KINGAIWORK LLC** is a company registered in the United States.  
+**KINGAIWORK LLC** 是一家在美国注册的公司。
 
-The registered address is a company registration address; it is not represented here as a walk-in or operating office. Company facts should be independently checked against the relevant official state record when required.
+For further company information / 更多公司信息，请访问 **https://kingai.work**。
 
 ## Contact and publication policy · 联系及公开政策
 
