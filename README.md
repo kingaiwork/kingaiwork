@@ -2,7 +2,7 @@
 
 **KINGAI** is the artificial intelligence and software technology brand operated by **KINGAIWORK LLC**, a company registered in the United States.
 
-**KINGAI** 是美国怀俄明州注册公司 **KINGAIWORK LLC** 运营的人工智能与软件技术品牌，面向个人、企业及公共机构提供智能系统与数字化解决方案。
+**KINGAI** 是美国注册公司 **KINGAIWORK LLC** 运营的人工智能与软件技术品牌，面向个人、企业及公共机构提供智能系统与数字化解决方案。
 
 **Official website / 官方网站:** https://kingai.work  
 **Business contact / 商务联系:** vip@kingai.work
